@@ -1,2 +1,2 @@
 # drawCheckeredPattern-
-Projekt done at CodeBerry Programming School.
+Project done at CodeBerry Programming School.

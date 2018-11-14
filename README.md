@@ -1,5 +1,5 @@
 # drawCheckeredPattern-
-A small program that draws a Checkered pattern on the canvas.
+A small program that draws a Checkered pattern on the canvas, according to the parameters given.
 
 # Built with
 
